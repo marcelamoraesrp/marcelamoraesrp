@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelamoraesrp&theme=dracula&hide_border=false" alt="Github Stats"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelamoraesrp&theme=radical&hide_border=false" alt="Github Stats"/>
 
 >[!Important]
 >Sou a Marcela, estou começando nesse mundo da programação.<br>

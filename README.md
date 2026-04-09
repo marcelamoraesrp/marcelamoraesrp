@@ -1,6 +1,6 @@
 ## Marcela Moraes
 <img
   align="center"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=marcelamoraesrp&theme=dracula&hide_border=false"
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelamoraesrp)](https://github.com/marcelamoraesrp/github-readme-stats)
   alt="Github Stats"
 />
